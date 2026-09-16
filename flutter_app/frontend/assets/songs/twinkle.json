@@ -1,0 +1,27 @@
+{
+  "title": "Twinkle Twinkle",
+  "difficulty": "Beginner",
+  "duration": "1 min",
+  "noteCount": 7,
+  "image": "assets/images/twinkle.jpg",
+
+  "notes": [
+    "C3",
+    "C3",
+    "G3",
+    "G3",
+    "A3",
+    "A3",
+    "G3"
+  ],
+
+  "guidance": [
+    "🎤 Twinkle",
+    "🎤 Twinkle",
+    "🎤 Little",
+    "🎤 Star",
+    "🎤 How",
+    "🎤 I",
+    "🎤 Wonder"
+  ]
+}
